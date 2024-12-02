@@ -1,0 +1,163 @@
+[
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/a2b6845edf5126ec879c53e4ca2ff19f2a73989a\"><strong>a</strong>2b6845edf5126ec879c53e4ca2ff19f2a73989a</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/polRk/telegram/commit/b02e7b3382e56e2b472d84c657f9c3fd0468cafe\">b02e7b3382e56e2b472d84c657f9c3fd0468<strong>cafe</strong></a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/845763-big-trip-12/commit/7fb7e8bcb9f0994468becf8ead44afd1313cc310\">7fb7e8b</a>: chore: update package.json",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/3c7d625f24cad891a07b9cbff6c2ceb9d52a0d68\">3c7d625</a>\n- <a href=\"https://github.com/polRk/telegram/commit/1d9216daa42fe2d30a6251900c208107aee73ae0\">1d9216d</a>\n- <a href=\"https://github.com/polRk/telegram/commit/40419cd5ede5c9614a18d8e44f1c87abb8ba8238\">40419cd</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "covid-19",
+    "tier": 0,
+    "desc": "I rolled before Covid-19: Survivor of the Great TP Shortage",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/covid-19.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/polRk/telegram/commit/9741f8cd42bb36023f1dead7dbd0bdcb6fc0653d\">9741f8cd42bb36023f1<strong>dead</strong>7dbd0bdcb6fc0653d</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"add\".",
+    "body": "My favorite commit message words are:\n\n1. add (used 126 times)\n2. feat: (used 117 times)\n3. update (used 85 times)\n4. from (used 48 times)\n5. chore: (used 48 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/data_structures_and_algorithms/commit/03319dfc92cbbd47439d746878c5a63a7d5793e7\">03319df</a>: fix: CRT-D0013\n- <a href=\"https://github.com/polRk/data_structures_and_algorithms/commit/64d54f26c41e379346d83e6058f6d89548e5f223\">64d54f2</a>: fix: remove redundant break statement",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/polrk.com/commit/15f7d8aafd979836600ad6ca914432f0eba6ccd8\">15f7d8a</a>: fix: make preload font loading\n- <a href=\"https://github.com/polRk/polrk.com/commit/a2376fc5d4ff2c876d3988234efe1133650a1a46\">a2376fc</a>: fix: add crytical css\n- <a href=\"https://github.com/polRk/polrk.com/commit/7e7370a3c495a70ee7b7974535387a2fcaa603b7\">7e7370a</a>: fix: typo\n- <a href=\"https://github.com/polRk/polrk.com/commit/3737a56dd1bcaf90e25c74f7f33ed874f1fdf3a1\">3737a56</a>: fix: add adaptive footer style",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "github-anniversary-5",
+    "tier": 0,
+    "desc": "I joined GitHub 5 years ago.",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/boilerplate/commit/746ff4331932c00703b64e61837f74b6a95eb331\">746ff43</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "polite-coder",
+    "tier": 0,
+    "desc": "I am a polite coder.",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/egoist/tsup/issues/656\">#656</a>: Add support .pcss extension\n- <a href=\"https://github.com/charmbracelet/gum/issues/345\">#345</a>: Tab separated csv file throw an error invalid data provided\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n\n And many more...",
+    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
+  },
+  {
+    "id": "pr-collaboration-5",
+    "tier": 1,
+    "desc": "I have participated in pull requests with 5 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/DefinitelyTyped/DefinitelyTyped/pull/37008\">#37008</a>: Add className for component Link",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-5.png"
+  },
+  {
+    "id": "pr-collaboration-10",
+    "tier": 2,
+    "desc": "I have participated in pull requests with 10 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/remix-run/react-router/pull/7326\">#7326</a>: fix: make useLocation generic",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-10.png"
+  },
+  {
+    "id": "pr-collaboration-15",
+    "tier": 3,
+    "desc": "I have participated in pull requests with 15 or more people",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/remix-run/react-router/pull/7326\">#7326</a>: fix: make useLocation generic",
+    "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
+  },
+  {
+    "id": "public-keys-2",
+    "tier": 2,
+    "desc": "I have two public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★143</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk\">ydb-platform/ydb-nodejs-sdk: ★61</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★14</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "the-ultimate-question",
+    "tier": 0,
+    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
+    "body": "- <a href=\"https://github.com/simonsmith/stylelint-selector-bem-pattern/issues/42\">#42</a>",
+    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
+  },
+  {
+    "id": "thumbs-down-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs down.",
+    "body": "* <a href=\"https://github.com/vercel/next.js/discussions/27666#discussioncomment-1124367\">37 👎</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-down-10.png"
+  },
+  {
+    "id": "thumbs-up-10",
+    "tier": 1,
+    "desc": "I got more than 10 thumbs up.",
+    "body": "* <a href=\"https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253\">13 👍</a>",
+    "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/tailwindcss-monorepo-bug/commit/e86f6b0c973f31ed477e362b06d5587369e032c4\">e86f6b0</a>\n- <a href=\"https://github.com/polRk/wholesale.by/commit/20dc451c1678d571696829e1e7824071ae077164\">20dc451</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/980d8337cc3dc068ce6ee5ba95a7faeb3b97397d\">980d833</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/00e6356e499904b3556ce14103e0f932fd9b6826\">00e6356</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/1098749259cee66942987e14e25a77dbba08e206\">1098749</a>\n- <a href=\"https://github.com/polRk/ydb-kubernetes-operator/commit/3453088a4fb5bfaf7c89c07ce0c81fd8e46c4441\">3453088</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/f48a61dbc514be971e561d7a920a7a17fab4d179\">f48a61d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/3c7d625f24cad891a07b9cbff6c2ceb9d52a0d68\">3c7d625</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/MatchMaker/commit/74c89c66c946a317fe23d2a053d5d1cd47b990dc\">74c89c6</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  }
+]
