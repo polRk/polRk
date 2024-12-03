@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/polRk/boilerplate/commit/746ff4331932c00703b64e61837f74b6a95eb331">746ff43</a>
+- <a href="https://github.com/polRk/bsuir-rpi-1/commit/8295fa8b94a47086c3a651211fbd8e9620ec7e4c">8295fa8</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

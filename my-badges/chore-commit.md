@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/polRk/845763-big-trip-12/commit/7fb7e8bcb9f0994468becf8ead44afd1313cc310">7fb7e8b</a>: chore: update package.json
+- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

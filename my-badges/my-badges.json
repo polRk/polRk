@@ -3,7 +3,7 @@
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
-    "body": "- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/a2b6845edf5126ec879c53e4ca2ff19f2a73989a\"><strong>a</strong>2b6845edf5126ec879c53e4ca2ff19f2a73989a</a>",
+    "body": "- <a href=\"https://github.com/polRk/boilerplate/commit/a5a7e130e59f58bb33a74b548cabb010580d48fc\"><strong>a</strong>5a7e130e59f58bb33a74b548cabb010580d48fc</a>",
     "image": "https://my-badges.github.io/my-badges/a-commit.png"
   },
   {
@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/845763-big-trip-12/commit/7fb7e8bcb9f0994468becf8ead44afd1313cc310\">7fb7e8b</a>: chore: update package.json",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c\">d32924f</a>: chore: add monitoring deployments",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -73,7 +73,7 @@
     "id": "mass-delete-commit",
     "tier": 1,
     "desc": "When I delete code, I delete a lot.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/boilerplate/commit/746ff4331932c00703b64e61837f74b6a95eb331\">746ff43</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/bsuir-rpi-1/commit/8295fa8b94a47086c3a651211fbd8e9620ec7e4c\">8295fa8</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
   },
   {
@@ -115,7 +115,7 @@
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
-    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★143</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk\">ydb-platform/ydb-nodejs-sdk: ★61</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★14</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★143</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk\">ydb-platform/ydb-nodejs-sdk: ★61</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★14</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
     "image": "https://my-badges.github.io/my-badges/stars-100.png"
   },
   {
@@ -159,5 +159,19 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/polRk/MatchMaker/commit/74c89c66c946a317fe23d2a053d5d1cd47b990dc\">74c89c6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "self-upvote",
+    "tier": 1,
+    "desc": "I liked my own comment so much that I upvoted it.",
+    "body": "* <a href=\"https://github.com/GetDutchie/brick/issues/112#issuecomment-767629614\">🎉</a>\n* <a href=\"https://github.com/pnpm/pnpm/issues/4498#issuecomment-1082626414\">👍</a>\n* <a href=\"https://github.com/ydb-platform/ydb/issues/76#issuecomment-1181331182\">👍</a>\n* <a href=\"https://github.com/storybookjs/storybook/issues/20537#issuecomment-1378744549\">👍</a>",
+    "image": "https://my-badges.github.io/my-badges/self-upvote.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
