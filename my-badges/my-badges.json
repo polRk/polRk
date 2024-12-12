@@ -80,7 +80,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/egoist/tsup/issues/656\">#656</a>: Add support .pcss extension\n- <a href=\"https://github.com/charmbracelet/gum/issues/345\">#345</a>: Tab separated csv file throw an error invalid data provided\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/egoist/tsup/issues/656\">#656</a>: Add support .pcss extension\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n- <a href=\"https://github.com/prisma/prisma1/issues/4042\">#4042</a>: Won't start backup by crontab\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
