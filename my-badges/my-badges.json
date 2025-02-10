@@ -105,13 +105,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
   },
   {
-    "id": "public-keys-2",
-    "tier": 2,
-    "desc": "I have two public keys",
-    "body": "",
-    "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
@@ -173,5 +166,12 @@
     "desc": "I've starred 1 my own repositories.",
     "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
     "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "public-keys-3",
+    "tier": 3,
+    "desc": "I have three public keys",
+    "body": "",
+    "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
   }
 ]
