@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 131 times)\n2. update (used 88 times)\n3. vladislav (used 32 times)\n4. polyakov (used 32 times)\n5. folder (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 131 times)\n2. update (used 88 times)\n3. vladislav (used 34 times)\n4. polyakov (used 34 times)\n5. folder (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/980d8337cc3dc068ce6ee5ba95a7faeb3b97397d\">980d833</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/00e6356e499904b3556ce14103e0f932fd9b6826\">00e6356</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/1098749259cee66942987e14e25a77dbba08e206\">1098749</a>\n- <a href=\"https://github.com/polRk/ydb-kubernetes-operator/commit/3453088a4fb5bfaf7c89c07ce0c81fd8e46c4441\">3453088</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/f48a61dbc514be971e561d7a920a7a17fab4d179\">f48a61d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/3c7d625f24cad891a07b9cbff6c2ceb9d52a0d68\">3c7d625</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/7bf10b0a25c8ccfefec275a8720233d2b94f7860\">7bf10b0</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/980d8337cc3dc068ce6ee5ba95a7faeb3b97397d\">980d833</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/00e6356e499904b3556ce14103e0f932fd9b6826\">00e6356</a>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/1098749259cee66942987e14e25a77dbba08e206\">1098749</a>\n- <a href=\"https://github.com/polRk/ydb-kubernetes-operator/commit/3453088a4fb5bfaf7c89c07ce0c81fd8e46c4441\">3453088</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/f48a61dbc514be971e561d7a920a7a17fab4d179\">f48a61d</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
