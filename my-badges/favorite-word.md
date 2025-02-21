@@ -6,9 +6,9 @@ My favorite commit message words are:
 
 1. add (used 131 times)
 2. update (used 88 times)
-3. vladislav (used 34 times)
-4. polyakov (used 34 times)
-5. folder (used 24 times)
+3. vladislav (used 36 times)
+4. polyakov (used 36 times)
+5. signed-off-by: (used 24 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

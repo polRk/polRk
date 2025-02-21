@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 131 times)\n2. update (used 88 times)\n3. vladislav (used 34 times)\n4. polyakov (used 34 times)\n5. folder (used 24 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 131 times)\n2. update (used 88 times)\n3. vladislav (used 36 times)\n4. polyakov (used 36 times)\n5. signed-off-by: (used 24 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -173,5 +173,12 @@
     "desc": "I have three public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-3.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/cd1835d9a73aa7c01b2f756743846f33282f52b6\">cd1835d</a>: fix: do not remove session tx id if txMeta empty.\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/cfd1efa1c2fc4e5c18f5ea3a63bbef20725ed6b3\">cfd1efa</a>: fix: export QuerySession from root\n\nSigned-off-by: Vladislav Polyakov <me@polrk.com>\n- <a href=\"https://github.com/ydb-platform/ydb-nodejs-sdk/commit/7bf10b0a25c8ccfefec275a8720233d2b94f7860\">7bf10b0</a>: fix(driver): bring endpoint and connection string to just a host",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
   }
 ]
