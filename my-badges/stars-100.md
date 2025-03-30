@@ -10,11 +10,11 @@ Repos:
 * <a href="https://github.com/ydb-platform/ydb-grafana-datasource-plugin">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>
 * <a href="https://github.com/polRk/docker-wordpress">polRk/docker-wordpress: ★2</a>
 * <a href="https://github.com/ydb-platform/ydb-nodejs-genproto">ydb-platform/ydb-nodejs-genproto: ★2</a>
+* <a href="https://github.com/ydb-platform/ydb-slo-action">ydb-platform/ydb-slo-action: ★2</a>
 * <a href="https://github.com/polRk/lexorank">polRk/lexorank: ★1</a>
 * <a href="https://github.com/ydb-platform/typeorm">ydb-platform/typeorm: ★1</a>
 * <a href="https://github.com/ydb-platform/slo-tests">ydb-platform/slo-tests: ★1</a>
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
-* <a href="https://github.com/ydb-platform/ydb-slo-action">ydb-platform/ydb-slo-action: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
