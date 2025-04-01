@@ -4,13 +4,14 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb-nodejs-sdk">ydb-platform/ydb-nodejs-sdk: ★63</a>
+* <a href="https://github.com/ydb-platform/ydb-nodejs-sdk">ydb-platform/ydb-nodejs-sdk: ★64</a>
 * <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★59</a>
 * <a href="https://github.com/ydb-platform/ydb-api-protos">ydb-platform/ydb-api-protos: ★14</a>
 * <a href="https://github.com/ydb-platform/ydb-grafana-datasource-plugin">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>
 * <a href="https://github.com/polRk/docker-wordpress">polRk/docker-wordpress: ★2</a>
 * <a href="https://github.com/ydb-platform/ydb-nodejs-genproto">ydb-platform/ydb-nodejs-genproto: ★2</a>
 * <a href="https://github.com/ydb-platform/ydb-slo-action">ydb-platform/ydb-slo-action: ★2</a>
+* <a href="https://github.com/polRk/polrk.com">polRk/polrk.com: ★1</a>
 * <a href="https://github.com/polRk/lexorank">polRk/lexorank: ★1</a>
 * <a href="https://github.com/ydb-platform/typeorm">ydb-platform/typeorm: ★1</a>
 * <a href="https://github.com/ydb-platform/slo-tests">ydb-platform/slo-tests: ★1</a>
