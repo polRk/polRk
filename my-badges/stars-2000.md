@@ -6,8 +6,8 @@ Repos:
 
 * <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4195</a>
 * <a href="https://github.com/ydb-platform/ydb-go-sdk">ydb-platform/ydb-go-sdk: ★151</a>
-* <a href="https://github.com/ydb-platform/ydb-nodejs-sdk">ydb-platform/ydb-nodejs-sdk: ★65</a>
-* <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★61</a>
+* <a href="https://github.com/ydb-platform/ydb-nodejs-sdk">ydb-platform/ydb-nodejs-sdk: ★66</a>
+* <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★63</a>
 * <a href="https://github.com/ydb-platform/ydb-api-protos">ydb-platform/ydb-api-protos: ★14</a>
 * <a href="https://github.com/ydb-platform/ydb-grafana-datasource-plugin">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>
 * <a href="https://github.com/polRk/docker-wordpress">polRk/docker-wordpress: ★2</a>
