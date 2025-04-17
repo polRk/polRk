@@ -5,7 +5,7 @@
 My favorite commit message words are:
 
 1. add (used 133 times)
-2. update (used 90 times)
+2. update (used 91 times)
 3. vladislav (used 42 times)
 4. polyakov (used 42 times)
 5. signed-off-by: (used 30 times)

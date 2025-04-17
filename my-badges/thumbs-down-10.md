@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs down.</strong>
 <br><br>
 
-* <a href="https://github.com/vercel/next.js/discussions/27666#discussioncomment-1124367">43 👎</a>
+* <a href="https://github.com/vercel/next.js/discussions/27666#discussioncomment-1124367">44 👎</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
