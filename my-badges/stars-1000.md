@@ -19,6 +19,7 @@ Repos:
 * <a href="https://github.com/ydb-platform/slo-tests">ydb-platform/slo-tests: ★1</a>
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
+* <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

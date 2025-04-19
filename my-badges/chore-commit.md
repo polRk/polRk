@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/8ea4b75e8bdffbf8a8aeff438c63983d6d74d984">8ea4b75</a>: chore: add clean script to package.json for multiple packages and update turbo.json tasks
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

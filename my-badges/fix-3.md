@@ -4,13 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/b3e1c01fbcb1ad3b981b4350ea365fe5c988550c">b3e1c01</a>: fix: do not remove session tx id if txMeta empty.
-
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/cfd1efa1c2fc4e5c18f5ea3a63bbef20725ed6b3">cfd1efa</a>: fix: export QuerySession from root
-
-Signed-off-by: Vladislav Polyakov <me@polrk.com>
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/7bf10b0a25c8ccfefec275a8720233d2b94f7860">7bf10b0</a>: fix(driver): bring endpoint and connection string to just a host
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/553c02affb0419b00422d27d32aa791da7cbb879">553c02a</a>: fix: throw original error instead of new Error for AbortError in retry function
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0a10ed6af6e9bad748d84d882d70ba731a5b2d6f">0a10ed6</a>: fix: update EventEmitter import from 'node:stream' to 'node:events'
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/aea2535b3931215bcf17956e82bc98e2a9025fe8">aea2535</a>: fix: handle AbortError in retry logic and update test cases to include signal parameter
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

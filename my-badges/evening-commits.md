@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/7bf10b0a25c8ccfefec275a8720233d2b94f7860">7bf10b0</a>
-- <a href="https://github.com/ydb-platform/ydb/commit/01359b92b9e4bda1a0b686ba8335f2e33de2b0c8">01359b9</a>
-- <a href="https://github.com/ydb-platform/ydb-go-sdk/commit/980d8337cc3dc068ce6ee5ba95a7faeb3b97397d">980d833</a>
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/00e6356e499904b3556ce14103e0f932fd9b6826">00e6356</a>
-- <a href="https://github.com/ydb-platform/ydb-nodejs-sdk/commit/1098749259cee66942987e14e25a77dbba08e206">1098749</a>
-- <a href="https://github.com/polRk/ydb-kubernetes-operator/commit/3453088a4fb5bfaf7c89c07ce0c81fd8e46c4441">3453088</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/63bf679f6911a4bc13d559a9de372e63b704d747">63bf679</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/52f02a6885716d436c52fb5016958aa40993b5a3">52f02a6</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/cdbf6e88fb23d8d922a7646bbfe755aabc1ef085">cdbf6e8</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c9e47d3ecd075e524b9f077f0d02970a088a2ed6">c9e47d3</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/7d2b28e89388229f2169a026161c0b2ae90eb3d2">7d2b28e</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0eea9e280a20ad17d3b42e529de715a48d91a7e0">0eea9e2</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

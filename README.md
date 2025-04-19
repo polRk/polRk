@@ -30,5 +30,6 @@ I’m Technical Director and Senior Software Engineer from Minsk, Belarus, worki
 <a href="my-badges/stars-1000.md"><img src="https://my-badges.github.io/my-badges/stars-1000.png" alt="I collected 1000 stars." title="I collected 1000 stars." width="64"></a>
 <a href="my-badges/stars-2000.md"><img src="https://my-badges.github.io/my-badges/stars-2000.png" alt="I collected 2000 stars." title="I collected 2000 stars." width="64"></a>
 <a href="my-badges/public-keys-4.md"><img src="https://my-badges.github.io/my-badges/public-keys-4.png" alt="I have four public keys" title="I have four public keys" width="64"></a>
+<a href="my-badges/ab-commit.md"><img src="https://my-badges.github.io/my-badges/ab-commit.png" alt="One of my commit sha starts with &quot;ab&quot;." title="One of my commit sha starts with &quot;ab&quot;." width="64"></a>
 <!-- my-badges end -->
 
