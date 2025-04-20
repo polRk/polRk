@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/8ea4b75e8bdffbf8a8aeff438c63983d6d74d984">8ea4b75</a>: chore: add clean script to package.json for multiple packages and update turbo.json tasks
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/09db163047d420f303efffaa6cb7747998c5f7ff">09db163</a>: chore: update VS Code extensions in devcontainer configuration
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

@@ -17,7 +17,7 @@
     "id": "chore-commit",
     "tier": 0,
     "desc": "I did a little housekeeping! 🧹",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/8ea4b75e8bdffbf8a8aeff438c63983d6d74d984\">8ea4b75</a>: chore: add clean script to package.json for multiple packages and update turbo.json tasks",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/09db163047d420f303efffaa6cb7747998c5f7ff\">09db163</a>: chore: update VS Code extensions in devcontainer configuration",
     "image": "https://my-badges.github.io/my-badges/chore-commit.png"
   },
   {
@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 211 times)\n2. update (used 141 times)\n3. handling (used 51 times)\n4. vladislav (used 42 times)\n5. error (used 38 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 211 times)\n2. update (used 142 times)\n3. handling (used 51 times)\n4. vladislav (used 42 times)\n5. configuration (used 38 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
