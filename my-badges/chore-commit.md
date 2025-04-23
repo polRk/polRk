@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/38e875602c46b30afbe245619fa437f27801e9d7">38e8756</a>: chore: remove ydb-user-init service from compose configuration
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/edebd84a37edd92993775349cbd03e902f91c9fb">edebd84</a>: chore: remove GITHUB_TOKEN authentication check from initialize.sh
+
+Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
