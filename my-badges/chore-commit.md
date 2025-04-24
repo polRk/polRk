@@ -4,9 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/edebd84a37edd92993775349cbd03e902f91c9fb">edebd84</a>: chore: remove GITHUB_TOKEN authentication check from initialize.sh
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/f80464d23af9b8784732b424fc8d21e5ea3c6cef">f80464d</a>: chore: bump version
 
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
