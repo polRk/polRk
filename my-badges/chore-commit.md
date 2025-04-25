@@ -4,9 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/f80464d23af9b8784732b424fc8d21e5ea3c6cef">f80464d</a>: chore: bump version
-
-Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
