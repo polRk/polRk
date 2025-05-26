@@ -1,9 +1,15 @@
-<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 9 sequential fixes." title="I did 9 sequential fixes." width="128">
-<strong>I did 9 sequential fixes.</strong>
+<img src="https://my-badges.github.io/my-badges/fix-6+.png" alt="I did 11 sequential fixes." title="I did 11 sequential fixes." width="128">
+<strong>I did 11 sequential fixes.</strong>
 <br><br>
 
 Commits:
 
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/dea29ada933fbefb2c86b39b780e3396cca5bea6">dea29ad</a>: fix: improve item type validation in Optional constructor
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/f8c5378829bc27c231a3b0f9b251b46924747ed8">f8c5378</a>: fix: update Dockerfile and compose files for YDB version 24.4.4, add yc cli installation, and enhance feature flags
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/904808c5a4189d4c821dbe3aeae47e69af7835f4">904808c</a>: fix: update version to 6.0.0-alpha.16 and add support for database in querystring
 
 Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
