@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"add\".",
-    "body": "My favorite commit message words are:\n\n1. add (used 244 times)\n2. vladislav (used 232 times)\n3. polyakov (used 232 times)\n4. signed-off-by: (used 220 times)\n5. <polrk@ydb.tech> (used 214 times)",
+    "body": "My favorite commit message words are:\n\n1. add (used 244 times)\n2. vladislav (used 234 times)\n3. polyakov (used 234 times)\n4. signed-off-by: (used 222 times)\n5. <polrk@ydb.tech> (used 216 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
