@@ -4,9 +4,15 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/96d788f0b74fd32fc34af5b288dbb9fe5d5deae6">96d788f</a>: fix: throw original error instead of new Error for AbortError in retry function
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/8057ccf64c5cbdd1e291dff501f25aa2624d5b91">8057ccf</a>: fix: update EventEmitter import from 'node:stream' to 'node:events'
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/fbaf39a3f0ca00eb39dd12c86aa38347f18c7394">fbaf39a</a>: fix: handle AbortError in retry logic and update test cases to include signal parameter
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/7bb0583194a4cc289a66c2e091adb0c45f5aafb7">7bb0583</a>: fix: reorder import statements for consistency in commit offset request and handle server message files
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/3ec477296e3a134a5b3fcf3ffb82a904a0857d08">3ec4772</a>: fix: update node version matrix in CI configuration and enhance test project naming structure in vitest configuration
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/1dc55a4e8ba41104fb52a036cda4e40555519772">1dc55a4</a>: fix: update package.json and package-lock.json for workspace structure and dependency versions; refine vitest configuration to exclude test files
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
