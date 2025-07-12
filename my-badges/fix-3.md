@@ -4,13 +4,13 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/7bb0583194a4cc289a66c2e091adb0c45f5aafb7">7bb0583</a>: fix: reorder import statements for consistency in commit offset request and handle server message files
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/fcd2184df5070b0ef142410700be1e36f0ad80b8">fcd2184</a>: fix(writer): disable garbage collection in throughput test configuration
 
 Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/3ec477296e3a134a5b3fcf3ffb82a904a0857d08">3ec4772</a>: fix: update node version matrix in CI configuration and enhance test project naming structure in vitest configuration
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/af1092044f8bb4d21a614cbe3b3b7042f6de39ec">af10920</a>: fix(settings): add missing exclusion for vitest/dist in settings.json
 
 Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/1dc55a4e8ba41104fb52a036cda4e40555519772">1dc55a4</a>: fix: update package.json and package-lock.json for workspace structure and dependency versions; refine vitest configuration to exclude test files
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0a5c4a64f6f8034e09089988a58212dd75fa66d2">0a5c4a6</a>: fix(tasks): correct formatting and structure in tasks.json
 
 Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 
