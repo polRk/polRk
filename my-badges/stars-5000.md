@@ -1,5 +1,5 @@
-<img src="https://my-badges.github.io/my-badges/stars-500.png" alt="I collected 500 stars." title="I collected 500 stars." width="128">
-<strong>I collected 500 stars.</strong>
+<img src="https://my-badges.github.io/my-badges/stars-5000.png" alt="I collected 5000 stars." title="I collected 5000 stars." width="128">
+<strong>I collected 5000 stars.</strong>
 <br><br>
 
 Repos:
