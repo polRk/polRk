@@ -4,6 +4,9 @@
 
 Commits:
 
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/f6ccbfdc7773e32c4e0d367712af92f05d256663">f6ccbfd</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0a9f4ee1c87d232c6f8e3780a06aefe9231b56b8">0a9f4ee</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/5fed91dc3b95aa427a54f04e0eb9066a4f8a951f">5fed91d</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ada6e0b8566bcd015db7bed6ab5d33e73de000ed">ada6e0b</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/56fc7bb81f787e63c543f72b9b5660d71afa97f7">56fc7bb</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/4a921afb89b2c94d7c9a350bb8d7c7927bedc3c8">4a921af</a>
