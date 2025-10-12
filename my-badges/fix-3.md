@@ -4,15 +4,15 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/fcd2184df5070b0ef142410700be1e36f0ad80b8">fcd2184</a>: fix(writer): disable garbage collection in throughput test configuration
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c6ce7d51cae98d9b1d43c214ccacbb0284ad65d0">c6ce7d5</a>: fix(topic): split TX options from main topic clients
 
-Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/af1092044f8bb4d21a614cbe3b3b7042f6de39ec">af10920</a>: fix(settings): add missing exclusion for vitest/dist in settings.json
+Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c395179d97e87b9084e0e056e5f0b49fd129a695">c395179</a>: fix(topic): move tx option at the first place.
 
-Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0a5c4a64f6f8034e09089988a58212dd75fa66d2">0a5c4a6</a>: fix(tasks): correct formatting and structure in tasks.json
+Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ffda73ccf0f2e7aa7e099739fc794918aa814039">ffda73c</a>: fix(topic): remove disposable features for tx clients.
 
-Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

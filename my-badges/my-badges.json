@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"vladislav\".",
-    "body": "My favorite commit message words are:\n\n1. vladislav (used 428 times)\n2. polyakov (used 428 times)\n3. signed-off-by: (used 416 times)\n4. <polrk@ydb.tech> (used 410 times)\n5. add (used 303 times)",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 458 times)\n2. polyakov (used 458 times)\n3. signed-off-by: (used 446 times)\n4. <polrk@ydb.tech> (used 440 times)\n5. add (used 305 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/wb_kokos_bot/commit/731793f221ea7104085ec5315124a2874b5d4713\">731793f</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/1d1fa08aba8e8eebcefb84e6be5bcd316808b80b\">1d1fa08</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/da79ed892ebd527de49b20fc398d8cb71204dbc3\">da79ed8</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/7621f5d11b561431a9d8de44c69b7069e7f2dae1\">7621f5d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/099494eee4d37e07f13e13c127a0773f4ba559f7\">099494e</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/d1bea0f0d94288a44c0c0e5fd49a1d47c6d037a8\">d1bea0f</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/3a62daf0c4288592b8538338cc7ff676950ed423\">3a62daf</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b1982540d6303773b450b086dc09fe1580b3366c\">b198254</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/cb0db2f4f527b67d450b9034b16352f7c340e5b7\">cb0db2f</a>\n- <a href=\"https://github.com/polRk/wb_kokos_bot/commit/731793f221ea7104085ec5315124a2874b5d4713\">731793f</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -171,7 +171,7 @@
     "id": "fix-3",
     "tier": 2,
     "desc": "I did 3 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/fcd2184df5070b0ef142410700be1e36f0ad80b8\">fcd2184</a>: fix(writer): disable garbage collection in throughput test configuration\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/af1092044f8bb4d21a614cbe3b3b7042f6de39ec\">af10920</a>: fix(settings): add missing exclusion for vitest/dist in settings.json\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/0a5c4a64f6f8034e09089988a58212dd75fa66d2\">0a5c4a6</a>: fix(tasks): correct formatting and structure in tasks.json\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c6ce7d51cae98d9b1d43c214ccacbb0284ad65d0\">c6ce7d5</a>: fix(topic): split TX options from main topic clients\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c395179d97e87b9084e0e056e5f0b49fd129a695\">c395179</a>: fix(topic): move tx option at the first place.\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ffda73ccf0f2e7aa7e099739fc794918aa814039\">ffda73c</a>: fix(topic): remove disposable features for tx clients.\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>",
     "image": "https://my-badges.github.io/my-badges/fix-3.png"
   },
   {
