@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
+- <a href="https://github.com/polRk/XGame/commit/64c255d4ce575d8c00f6e68c5a80250a7be969ee">64c255d</a>: chore: setup git spec framework
+
+Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
