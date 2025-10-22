@@ -4,9 +4,15 @@
 
 Commits:
 
-- <a href="https://github.com/polRk/XGame/commit/64c255d4ce575d8c00f6e68c5a80250a7be969ee">64c255d</a>: chore: setup git spec framework
+- <a href="https://github.com/polRk/XGame/commit/8bea36a521825607f4b321b1d7b7e38eaa8da297">8bea36a</a>: chore: remove old CLI infrastructure and unused code
 
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
+Removed legacy code after Commander.js migration:
+- Deleted old command files (profile-*, registry)
+- Removed custom CLI infrastructure (parser, formatter)
+- Cleaned up unused type definitions (command.ts, command-options.ts, etc.)
+- Updated and removed obsolete tests
+- All tests passing (67/67)
+- Linting clean (0 warnings/errors)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
