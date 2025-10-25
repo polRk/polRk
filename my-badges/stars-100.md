@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★76</a>
+* <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★77</a>
 * <a href="https://github.com/ydb-platform/ydb-api-protos">ydb-platform/ydb-api-protos: ★15</a>
 * <a href="https://github.com/ydb-platform/ydb-grafana-datasource-plugin">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>
 * <a href="https://github.com/polRk/docker-wordpress">polRk/docker-wordpress: ★2</a>
