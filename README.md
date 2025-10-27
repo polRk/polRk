@@ -1,5 +1,23 @@
 Highly skilled Lead Full-Stack Engineer with over 7 years of experience and growing expertise in AI and Machine Learning. Proven ability to architect, develop, and deploy complete systems independently, with deep expertise in creating secure CI/CD pipelines and leveraging cloud technologies. Passionate about building robust web applications, automating business processes, and developing modern, LLM-based agentic systems.
 
+---
+
+### **Skills & Technologies**
+
+*   **Core Languages:** JavaScript / TypeScript, Python, Go, SQL *(Currently learning Rust)*
+*   **Frontend:** React, Vue.js, Flutter, Tailwind CSS, Modern Web Architectures
+*   **Backend & Databases:** Node.js, GraphQL, REST APIs, YDB, PostgreSQL, MongoDB, Firebase, Message Queues (Kafka, RabbitMQ)
+*   **Distributed & Asynchronous Computing:** Temporal, YTsaurus, Apache Airflow
+*   **Cloud & DevOps:**
+    *   **Platforms:** AWS, Google Cloud Platform (GCP), Private Cloud Infrastructure
+    *   **Tools:** Kubernetes (K8s), Docker, Docker Compose, Terraform, Ansible
+    *   **CI/CD:** GitHub Actions, GitLab CI, Jenkins
+    *   **Practices:** DevSecOps, Infrastructure as Code (IaC), GitOps
+*   **AI & Data:** LLM Integration & Tooling, Agentic System Design, Machine Learning (Scikit-learn, PyTorch), ETL Pipelines, Data Analytics, Proactive Monitoring & Telemetry (Prometheus, Grafana)
+*   **Leadership & Methodologies:** Technical Leadership, Agile/Scrum, Team Building & Mentoring, Strategic Planning, System Architecture
+
+---
+
 <!-- my-badges start -->
 <a href="my-badges/a-commit.md"><img src="https://my-badges.github.io/my-badges/a-commit.png" alt="One of my commit sha starts with &quot;a&quot;." title="One of my commit sha starts with &quot;a&quot;." width="64"></a>
 <a href="my-badges/cafe-commit.md"><img src="https://my-badges.github.io/my-badges/cafe-commit.png" alt="I pushed a commit with &quot;cafe&quot; once." title="I pushed a commit with &quot;cafe&quot; once." width="64"></a>
