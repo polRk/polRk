@@ -4,15 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/polRk/XGame/commit/8bea36a521825607f4b321b1d7b7e38eaa8da297">8bea36a</a>: chore: remove old CLI infrastructure and unused code
-
-Removed legacy code after Commander.js migration:
-- Deleted old command files (profile-*, registry)
-- Removed custom CLI infrastructure (parser, formatter)
-- Cleaned up unused type definitions (command.ts, command-options.ts, etc.)
-- Updated and removed obsolete tests
-- All tests passing (67/67)
-- Linting clean (0 warnings/errors)
+- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
