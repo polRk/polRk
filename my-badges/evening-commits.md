@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/d1bea0f0d94288a44c0c0e5fd49a1d47c6d037a8">d1bea0f</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/3a62daf0c4288592b8538338cc7ff676950ed423">3a62daf</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/b1982540d6303773b450b086dc09fe1580b3366c">b198254</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/cb0db2f4f527b67d450b9034b16352f7c340e5b7">cb0db2f</a>
-- <a href="https://github.com/polRk/wb_kokos_bot/commit/731793f221ea7104085ec5315124a2874b5d4713">731793f</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c">b8316e3</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ca383711798637230c676315e13ee9ae6444095b">ca38371</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/f0d923c0003241cef15443d2d30b0d1e57d9d900">f0d923c</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/9ee29e0dce060a6dc31fd9373142a2fc1521c70a">9ee29e0</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/d3b77a9985bdf234aea3ffad2bfd74c16d172039">d3b77a9</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ab9f96eb478d7d706471fd9967ae73a9fa80b9c3">ab9f96e</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/bc5f01e0cb971e13cd6fef19105d9e3f5d477629">bc5f01e</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

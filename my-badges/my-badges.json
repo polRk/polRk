@@ -45,7 +45,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"vladislav\".",
-    "body": "My favorite commit message words are:\n\n1. vladislav (used 460 times)\n2. polyakov (used 460 times)\n3. signed-off-by: (used 448 times)\n4. <polrk@ydb.tech> (used 442 times)\n5. add (used 305 times)",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 460 times)\n2. polyakov (used 460 times)\n3. signed-off-by: (used 448 times)\n4. <polrk@ydb.tech> (used 442 times)\n5. add (used 329 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -143,7 +143,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/d1bea0f0d94288a44c0c0e5fd49a1d47c6d037a8\">d1bea0f</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/3a62daf0c4288592b8538338cc7ff676950ed423\">3a62daf</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b1982540d6303773b450b086dc09fe1580b3366c\">b198254</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/cb0db2f4f527b67d450b9034b16352f7c340e5b7\">cb0db2f</a>\n- <a href=\"https://github.com/polRk/wb_kokos_bot/commit/731793f221ea7104085ec5315124a2874b5d4713\">731793f</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ca383711798637230c676315e13ee9ae6444095b\">ca38371</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/f0d923c0003241cef15443d2d30b0d1e57d9d900\">f0d923c</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/9ee29e0dce060a6dc31fd9373142a2fc1521c70a\">9ee29e0</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/d3b77a9985bdf234aea3ffad2bfd74c16d172039\">d3b77a9</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ab9f96eb478d7d706471fd9967ae73a9fa80b9c3\">ab9f96e</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/bc5f01e0cb971e13cd6fef19105d9e3f5d477629\">bc5f01e</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {
@@ -213,7 +213,7 @@
     "id": "epic-commit",
     "tier": 0,
     "desc": "I made an epic commit with a message over 500 chars.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/f6ccbfdc7773e32c4e0d367712af92f05d256663\">f6ccbfd</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/0a9f4ee1c87d232c6f8e3780a06aefe9231b56b8\">0a9f4ee</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/5fed91dc3b95aa427a54f04e0eb9066a4f8a951f\">5fed91d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ada6e0b8566bcd015db7bed6ab5d33e73de000ed\">ada6e0b</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/56fc7bb81f787e63c543f72b9b5660d71afa97f7\">56fc7bb</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/4a921afb89b2c94d7c9a350bb8d7c7927bedc3c8\">4a921af</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/e6e3dbfda71d9fdb9fa18b88157c02ae654401af\">e6e3dbf</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/2a89b43f9fea16de06379f0f2d026d74eed00535\">2a89b43</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>\n- <a href=\"https://github.com/ydb-platform/ydb-python-sdk/commit/4e2eaec32e320b4b9a0e0402ce22dea43b22a2ae\">4e2eaec</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/3c3279e8aca186151a60b2a19184b92a29e9cb0b\">3c3279e</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/f6ccbfdc7773e32c4e0d367712af92f05d256663\">f6ccbfd</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/0a9f4ee1c87d232c6f8e3780a06aefe9231b56b8\">0a9f4ee</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/5fed91dc3b95aa427a54f04e0eb9066a4f8a951f\">5fed91d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ada6e0b8566bcd015db7bed6ab5d33e73de000ed\">ada6e0b</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/56fc7bb81f787e63c543f72b9b5660d71afa97f7\">56fc7bb</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/4a921afb89b2c94d7c9a350bb8d7c7927bedc3c8\">4a921af</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/e6e3dbfda71d9fdb9fa18b88157c02ae654401af\">e6e3dbf</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/2a89b43f9fea16de06379f0f2d026d74eed00535\">2a89b43</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>\n- <a href=\"https://github.com/ydb-platform/ydb-python-sdk/commit/4e2eaec32e320b4b9a0e0402ce22dea43b22a2ae\">4e2eaec</a>",
     "image": "https://my-badges.github.io/my-badges/epic-commit.png"
   },
   {
