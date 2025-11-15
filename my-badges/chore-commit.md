@@ -4,7 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/slo-tests/commit/d32924f855c0a5e6cb8e0da5d07a313cf9dcff9c">d32924f</a>: chore: add monitoring deployments
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/66f221c2e66f205250370fdd63bac226be8de6da">66f221c</a>: chore: test actions witthout full build
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
