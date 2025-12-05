@@ -4,7 +4,7 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/d68b371e550bf84011a8dd72e961b19a1b53b1f1">d68b371</a>
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/47cc589d841944a5938b5427719bb2ef321981f2">47cc589</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

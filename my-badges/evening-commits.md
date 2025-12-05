@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/47cc589d841944a5938b5427719bb2ef321981f2">47cc589</a>
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/3604d084e41c0ffb2a620a4c8bb346bb734f099c">3604d08</a>
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/b07730da84a63a36c56cdd62131df92323e59c1c">b07730d</a>
 - <a href="https://github.com/polRk/SileroVADKit/commit/b04b2c713ba7c0653a40765b376496a80da8aa0e">b04b2c7</a>
 - <a href="https://github.com/polRk/SileroVADKit/commit/1211fac52ff1bff4a114338f5524ca71c422f7af">1211fac</a>
 - <a href="https://github.com/ydb-platform/ydb-slo-action/commit/eb21598e9806aa62677dd32af356181b632fb6d0">eb21598</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/d878fb7e3f1d9b77bd09cb7831509c71122736f7">d878fb7</a>
-- <a href="https://github.com/ydb-platform/ydb-go-sdk/commit/f4d278a05c69e36eeb400cb3dcdfa62e48efd238">f4d278a</a>
-- <a href="https://github.com/ydb-platform/ydb/commit/e7065254821ac3093d8135a76145c9a09e3631e2">e706525</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
