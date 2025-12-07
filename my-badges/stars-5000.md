@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4632</a>
+* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4633</a>
 * <a href="https://github.com/ydb-platform/ydb-go-sdk">ydb-platform/ydb-go-sdk: ★174</a>
 * <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★105</a>
 * <a href="https://github.com/ydb-platform/ydb-python-sdk">ydb-platform/ydb-python-sdk: ★91</a>
@@ -20,6 +20,7 @@ Repos:
 * <a href="https://github.com/ydb-platform/slo-tests">ydb-platform/slo-tests: ★1</a>
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
+* <a href="https://github.com/polRk/SileroVADKit">polRk/SileroVADKit: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
