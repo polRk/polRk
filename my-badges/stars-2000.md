@@ -4,8 +4,8 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4650</a>
-* <a href="https://github.com/ydb-platform/ydb-go-sdk">ydb-platform/ydb-go-sdk: ★174</a>
+* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4653</a>
+* <a href="https://github.com/ydb-platform/ydb-go-sdk">ydb-platform/ydb-go-sdk: ★173</a>
 * <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★107</a>
 * <a href="https://github.com/ydb-platform/ydb-python-sdk">ydb-platform/ydb-python-sdk: ★92</a>
 * <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★79</a>
