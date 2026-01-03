@@ -243,5 +243,12 @@
     "desc": "I closed an issue that was open for a year",
     "body": "Issues:\n\n- <a href=\"https://github.com/DarthSim/overmind/issues/139\">#139</a>: How to specify start order",
     "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
+  },
+  {
+    "id": "this-is-fine",
+    "tier": 0,
+    "desc": "I merged a PR with failing checks",
+    "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/543\">#543</a>: Refactor CI/CD workflows\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/546\">#546</a>: Configure independent package publishing after alpha",
+    "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   }
 ]
