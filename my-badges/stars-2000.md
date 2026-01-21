@@ -6,7 +6,7 @@ Repos:
 
 * <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4661</a>
 * <a href="https://github.com/ydb-platform/ydb-go-sdk">ydb-platform/ydb-go-sdk: ★174</a>
-* <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★110</a>
+* <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★111</a>
 * <a href="https://github.com/ydb-platform/ydb-python-sdk">ydb-platform/ydb-python-sdk: ★92</a>
 * <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★79</a>
 * <a href="https://github.com/ydb-platform/ydb-api-protos">ydb-platform/ydb-api-protos: ★16</a>
@@ -20,6 +20,7 @@ Repos:
 * <a href="https://github.com/ydb-platform/slo-tests">ydb-platform/slo-tests: ★1</a>
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
+* <a href="https://github.com/ydb-platform/ydb-js-examples">ydb-platform/ydb-js-examples: ★1</a>
 * <a href="https://github.com/polRk/SileroVADKit">polRk/SileroVADKit: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
