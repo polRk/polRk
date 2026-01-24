@@ -89,5 +89,173 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/543\">#543</a>: Refactor CI/CD workflows\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/546\">#546</a>: Configure independent package publishing after alpha",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "a-commit",
+    "tier": 1,
+    "desc": "One of my commit sha starts with \"a\".",
+    "body": "- <a href=\"https://github.com/polRk/boilerplate/commit/a5a7e130e59f58bb33a74b548cabb010580d48fc\"><strong>a</strong>5a7e130e59f58bb33a74b548cabb010580d48fc</a>",
+    "image": "https://my-badges.github.io/my-badges/a-commit.png"
+  },
+  {
+    "id": "ab-commit",
+    "tier": 2,
+    "desc": "One of my commit sha starts with \"ab\".",
+    "body": "- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ab327de95f59b97ebd232fef3962ee3db4d26192\"><strong>ab</strong>327de95f59b97ebd232fef3962ee3db4d26192</a>",
+    "image": "https://my-badges.github.io/my-badges/ab-commit.png"
+  },
+  {
+    "id": "alien-day",
+    "tier": 0,
+    "desc": "I committed on the day when the crew of the USCSS Nostromo made their fateful landing and discovered the Xenomorph on LV-426!",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/rrule/commit/8cfae297db32f1cae5c6463a3cf15dc6112d40d1\">8cfae29</a>\n- <a href=\"https://github.com/polRk/rrule/commit/7ff8558e444366af5fd7628f0cce573402a8e435\">7ff8558</a>\n- <a href=\"https://github.com/polRk/rrule/commit/399fa073c6c0ecd9e1bf002f9c153019a1742383\">399fa07</a>\n- <a href=\"https://github.com/polRk/rrule/commit/565823c904aa2529d9f74a20ae63075adad26b72\">565823c</a>",
+    "image": "https://my-badges.github.io/my-badges/alien-day.png"
+  },
+  {
+    "id": "cafe-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"cafe\" once.",
+    "body": "- <a href=\"https://github.com/polRk/telegram/commit/b02e7b3382e56e2b472d84c657f9c3fd0468cafe\">b02e7b3382e56e2b472d84c657f9c3fd0468<strong>cafe</strong></a>",
+    "image": "https://my-badges.github.io/my-badges/cafe-commit.png"
+  },
+  {
+    "id": "chore-commit",
+    "tier": 0,
+    "desc": "I did a little housekeeping! 🧹",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/66f221c2e66f205250370fdd63bac226be8de6da\">66f221c</a>: chore: test actions witthout full build\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>",
+    "image": "https://my-badges.github.io/my-badges/chore-commit.png"
+  },
+  {
+    "id": "cosmetic-commit",
+    "tier": 0,
+    "desc": "I made cosmetic commit.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/0a9f4ee1c87d232c6f8e3780a06aefe9231b56b8\">0a9f4ee</a>\n- <a href=\"https://github.com/ydb-platform/ydb-go-sdk/commit/3c7d625f24cad891a07b9cbff6c2ceb9d52a0d68\">3c7d625</a>\n- <a href=\"https://github.com/polRk/telegram/commit/1d9216daa42fe2d30a6251900c208107aee73ae0\">1d9216d</a>\n- <a href=\"https://github.com/polRk/telegram/commit/40419cd5ede5c9614a18d8e44f1c87abb8ba8238\">40419cd</a>",
+    "image": "https://my-badges.github.io/my-badges/cosmetic-commit.png"
+  },
+  {
+    "id": "dead-commit",
+    "tier": 0,
+    "desc": "I pushed a commit with \"dead\" once.",
+    "body": "- <a href=\"https://github.com/polRk/telegram/commit/9741f8cd42bb36023f1dead7dbd0bdcb6fc0653d\">9741f8cd42bb36023f1<strong>dead</strong>7dbd0bdcb6fc0653d</a>",
+    "image": "https://my-badges.github.io/my-badges/dead-commit.png"
+  },
+  {
+    "id": "epic-commit",
+    "tier": 0,
+    "desc": "I made an epic commit with a message over 500 chars.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/c1cae46ca029fe9dcb7f6e15d1f43d5b0ad7aa7c\">c1cae46</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/09a7439ff8ad0bb3ed627fb1d19efb564c28e863\">09a7439</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/0be7e92a90f356b263bf1a39b7ecb5bc7fb4614b\">0be7e92</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/8e41db083f4c2262391b8c06546c22beba5e1487\">8e41db0</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/307803121ced1b2f555e6f18c5e24f42ca29c8f4\">3078031</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/7ba9ad933498bb3741a27418068b379e2cf3e68a\">7ba9ad9</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/2a576731afea34df727b0d47179f021a9decaf9d\">2a57673</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/a4509c94a81077c4d497029d35d93caefd7f34d9\">a4509c9</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/5de088300c5450f958deb0e357e652593b26af02\">5de0883</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/1803881b30ba83ad2d08fe9c4498ec1ff8419def\">1803881</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/b949ea3b07f159d365f6bbfa3d5aa58d176a938a\">b949ea3</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/706f0809120ebd25d241f1c61147cff5d5654a75\">706f080</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/041e70863c834f953f6d6554e900b5e75178c1d7\">041e708</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/4a8ebba603527b10a9ffa9f1f7be244a99c72451\">4a8ebba</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/815ffe647823e402b28f8ff43c8026504ceff1fa\">815ffe6</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/9d7e10c0288fa883a2b519d4d007cc75e14fb14a\">9d7e10c</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/3c3279e8aca186151a60b2a19184b92a29e9cb0b\">3c3279e</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/f6ccbfdc7773e32c4e0d367712af92f05d256663\">f6ccbfd</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/0a9f4ee1c87d232c6f8e3780a06aefe9231b56b8\">0a9f4ee</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/5fed91dc3b95aa427a54f04e0eb9066a4f8a951f\">5fed91d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ada6e0b8566bcd015db7bed6ab5d33e73de000ed\">ada6e0b</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/56fc7bb81f787e63c543f72b9b5660d71afa97f7\">56fc7bb</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/4a921afb89b2c94d7c9a350bb8d7c7927bedc3c8\">4a921af</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/e6e3dbfda71d9fdb9fa18b88157c02ae654401af\">e6e3dbf</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/2a89b43f9fea16de06379f0f2d026d74eed00535\">2a89b43</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b8316e344271b3a2f870adff6b8550243fc2922c\">b8316e3</a>\n- <a href=\"https://github.com/ydb-platform/ydb-python-sdk/commit/4e2eaec32e320b4b9a0e0402ce22dea43b22a2ae\">4e2eaec</a>",
+    "image": "https://my-badges.github.io/my-badges/epic-commit.png"
+  },
+  {
+    "id": "favorite-word",
+    "tier": 0,
+    "desc": "My favorite word is \"vladislav\".",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 498 times)\n2. polyakov (used 498 times)\n3. signed-off-by: (used 486 times)\n4. <polrk@ydb.tech> (used 480 times)\n5. add (used 449 times)",
+    "image": "https://my-badges.github.io/my-badges/favorite-word.png"
+  },
+  {
+    "id": "fix-2",
+    "tier": 1,
+    "desc": "I did 2 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/data_structures_and_algorithms/commit/03319dfc92cbbd47439d746878c5a63a7d5793e7\">03319df</a>: fix: CRT-D0013\n- <a href=\"https://github.com/polRk/data_structures_and_algorithms/commit/64d54f26c41e379346d83e6058f6d89548e5f223\">64d54f2</a>: fix: remove redundant break statement",
+    "image": "https://my-badges.github.io/my-badges/fix-2.png"
+  },
+  {
+    "id": "fix-3",
+    "tier": 2,
+    "desc": "I did 3 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c6ce7d51cae98d9b1d43c214ccacbb0284ad65d0\">c6ce7d5</a>: fix(topic): split TX options from main topic clients\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c395179d97e87b9084e0e056e5f0b49fd129a695\">c395179</a>: fix(topic): move tx option at the first place.\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ffda73ccf0f2e7aa7e099739fc794918aa814039\">ffda73c</a>: fix(topic): remove disposable features for tx clients.\n\nSigned-off-by: Vladislav Polyakov <polrk@ydb.tech>",
+    "image": "https://my-badges.github.io/my-badges/fix-3.png"
+  },
+  {
+    "id": "fix-6+",
+    "tier": 6,
+    "desc": "I did 8 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/1d1fa08aba8e8eebcefb84e6be5bcd316808b80b\">1d1fa08</a>: fix: refactor functions to use consistent function expression syntax and improve code readability\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/da79ed892ebd527de49b20fc398d8cb71204dbc3\">da79ed8</a>: fix: improve type safety and error handling in TopicReader class\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/7621f5d11b561431a9d8de44c69b7069e7f2dae1\">7621f5d</a>: fix: remove unnecessary semicolons and improve code consistency in AsyncPriorityQueue\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/099494eee4d37e07f13e13c127a0773f4ba559f7\">099494e</a>: fix: reorder property assignments in TopicMessage constructor for clarity and consistency\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/12a20dd161e8a1f88b6de7c902b4bf824e2ec366\">12a20dd</a>: fix: add non-null assertions to prevent potential runtime errors in various classes and tests\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/701e70363e49e2b673967ba69dac84a51600333d\">701e703</a>: fix: enhance transaction control handling and ensure parameter safety in Query class\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/b85542704f4ea846f73c86c13d09a394c98148f6\">b855427</a>: fix: streamline precommit hook handling and improve error management in transaction execution\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/59e99248c8d1fdbe6c2cece8f9f1c9821edf7897\">59e9924</a>: fix: update retry function to pass signal and correct method name for acquiring connection\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>",
+    "image": "https://my-badges.github.io/my-badges/fix-6+.png"
+  },
+  {
+    "id": "fix-4",
+    "tier": 3,
+    "desc": "I did 4 sequential fixes.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/polrk.com/commit/15f7d8aafd979836600ad6ca914432f0eba6ccd8\">15f7d8a</a>: fix: make preload font loading\n- <a href=\"https://github.com/polRk/polrk.com/commit/a2376fc5d4ff2c876d3988234efe1133650a1a46\">a2376fc</a>: fix: add crytical css\n- <a href=\"https://github.com/polRk/polrk.com/commit/7e7370a3c495a70ee7b7974535387a2fcaa603b7\">7e7370a</a>: fix: typo\n- <a href=\"https://github.com/polRk/polrk.com/commit/3737a56dd1bcaf90e25c74f7f33ed874f1fdf3a1\">3737a56</a>: fix: add adaptive footer style",
+    "image": "https://my-badges.github.io/my-badges/fix-4.png"
+  },
+  {
+    "id": "mass-delete-commit",
+    "tier": 1,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/47cc589d841944a5938b5427719bb2ef321981f2\">47cc589</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit.png"
+  },
+  {
+    "id": "mass-delete-commit-10k",
+    "tier": 2,
+    "desc": "When I delete code, I delete a lot.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/d68b371e550bf84011a8dd72e961b19a1b53b1f1\">d68b371</a>",
+    "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
+  },
+  {
+    "id": "stars-100",
+    "tier": 1,
+    "desc": "I collected 100 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb-js-sdk\">ydb-platform/ydb-js-sdk: ★79</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★16</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★3</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/polrk.com\">polRk/polrk.com: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/typeorm\">ydb-platform/typeorm: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-examples\">ydb-platform/ydb-js-examples: ★1</a>\n* <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-100.png"
+  },
+  {
+    "id": "stars-500",
+    "tier": 2,
+    "desc": "I collected 500 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4663</a>\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★174</a>\n* <a href=\"https://github.com/ydb-platform/ydb-dotnet-sdk\">ydb-platform/ydb-dotnet-sdk: ★111</a>\n* <a href=\"https://github.com/ydb-platform/ydb-python-sdk\">ydb-platform/ydb-python-sdk: ★93</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-sdk\">ydb-platform/ydb-js-sdk: ★79</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★16</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★3</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/polrk.com\">polRk/polrk.com: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/typeorm\">ydb-platform/typeorm: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-examples\">ydb-platform/ydb-js-examples: ★1</a>\n* <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-500.png"
+  },
+  {
+    "id": "stars-1000",
+    "tier": 3,
+    "desc": "I collected 1000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4663</a>\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★174</a>\n* <a href=\"https://github.com/ydb-platform/ydb-dotnet-sdk\">ydb-platform/ydb-dotnet-sdk: ★111</a>\n* <a href=\"https://github.com/ydb-platform/ydb-python-sdk\">ydb-platform/ydb-python-sdk: ★93</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-sdk\">ydb-platform/ydb-js-sdk: ★79</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★16</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★3</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/polrk.com\">polRk/polrk.com: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/typeorm\">ydb-platform/typeorm: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-examples\">ydb-platform/ydb-js-examples: ★1</a>\n* <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-1000.png"
+  },
+  {
+    "id": "stars-2000",
+    "tier": 4,
+    "desc": "I collected 2000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4663</a>\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★174</a>\n* <a href=\"https://github.com/ydb-platform/ydb-dotnet-sdk\">ydb-platform/ydb-dotnet-sdk: ★111</a>\n* <a href=\"https://github.com/ydb-platform/ydb-python-sdk\">ydb-platform/ydb-python-sdk: ★93</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-sdk\">ydb-platform/ydb-js-sdk: ★79</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★16</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★3</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/polrk.com\">polRk/polrk.com: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/typeorm\">ydb-platform/typeorm: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-examples\">ydb-platform/ydb-js-examples: ★1</a>\n* <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-2000.png"
+  },
+  {
+    "id": "stars-5000",
+    "tier": 5,
+    "desc": "I collected 5000 stars.",
+    "body": "Repos:\n\n* <a href=\"https://github.com/ydb-platform/ydb\">ydb-platform/ydb: ★4663</a>\n* <a href=\"https://github.com/ydb-platform/ydb-go-sdk\">ydb-platform/ydb-go-sdk: ★174</a>\n* <a href=\"https://github.com/ydb-platform/ydb-dotnet-sdk\">ydb-platform/ydb-dotnet-sdk: ★111</a>\n* <a href=\"https://github.com/ydb-platform/ydb-python-sdk\">ydb-platform/ydb-python-sdk: ★93</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-sdk\">ydb-platform/ydb-js-sdk: ★79</a>\n* <a href=\"https://github.com/ydb-platform/ydb-api-protos\">ydb-platform/ydb-api-protos: ★16</a>\n* <a href=\"https://github.com/ydb-platform/ydb-grafana-datasource-plugin\">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>\n* <a href=\"https://github.com/ydb-platform/ydb-slo-action\">ydb-platform/ydb-slo-action: ★3</a>\n* <a href=\"https://github.com/polRk/docker-wordpress\">polRk/docker-wordpress: ★2</a>\n* <a href=\"https://github.com/ydb-platform/ydb-nodejs-genproto\">ydb-platform/ydb-nodejs-genproto: ★2</a>\n* <a href=\"https://github.com/polRk/polrk.com\">polRk/polrk.com: ★1</a>\n* <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank: ★1</a>\n* <a href=\"https://github.com/ydb-platform/typeorm\">ydb-platform/typeorm: ★1</a>\n* <a href=\"https://github.com/ydb-platform/slo-tests\">ydb-platform/slo-tests: ★1</a>\n* <a href=\"https://github.com/polRk/buf\">polRk/buf: ★1</a>\n* <a href=\"https://github.com/polRk/ydb-python-sdk\">polRk/ydb-python-sdk: ★1</a>\n* <a href=\"https://github.com/ydb-platform/ydb-js-examples\">ydb-platform/ydb-js-examples: ★1</a>\n* <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit: ★1</a>\n\n<sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>\n",
+    "image": "https://my-badges.github.io/my-badges/stars-5000.png"
+  },
+  {
+    "id": "morning-commits",
+    "tier": 0,
+    "desc": "I commit in the morning.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/tailwindcss-monorepo-bug/commit/e86f6b0c973f31ed477e362b06d5587369e032c4\">e86f6b0</a>\n- <a href=\"https://github.com/polRk/wholesale.by/commit/20dc451c1678d571696829e1e7824071ae077164\">20dc451</a>",
+    "image": "https://my-badges.github.io/my-badges/morning-commits.png"
+  },
+  {
+    "id": "evening-commits",
+    "tier": 0,
+    "desc": "I commit in the evening.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/68143c89d6b1808f260ad105efbcfb349fad3df3\">68143c8</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/c29acab36d8512e0f9e229fd2d4c21d3977734d8\">c29acab</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/05ecb1e3b69cdee73dc61366e6ca0c8690f48286\">05ecb1e</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/bbb07ba52de2808c4f4795d2f67030865bccfa28\">bbb07ba</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/47cc589d841944a5938b5427719bb2ef321981f2\">47cc589</a>\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/3604d084e41c0ffb2a620a4c8bb346bb734f099c\">3604d08</a>",
+    "image": "https://my-badges.github.io/my-badges/evening-commits.png"
+  },
+  {
+    "id": "midnight-commits",
+    "tier": 0,
+    "desc": "I commit at midnight.",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ebed95d26e899e0120c0d5cd23fffc61c53007bc\">ebed95d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/13ad1512f9ec2a9668c91e4054a97c7eaabc566c\">13ad151</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/1122d3cc94b2c287836d86bbfbe119a7b360f509\">1122d3c</a>\n- <a href=\"https://github.com/polRk/MatchMaker/commit/74c89c66c946a317fe23d2a053d5d1cd47b990dc\">74c89c6</a>",
+    "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
   }
 ]
