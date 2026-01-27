@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"vladislav\".",
-    "body": "My favorite commit message words are:\n\n1. vladislav (used 498 times)\n2. polyakov (used 498 times)\n3. signed-off-by: (used 486 times)\n4. <polrk@ydb.tech> (used 480 times)\n5. add (used 449 times)",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 498 times)\n2. polyakov (used 498 times)\n3. signed-off-by: (used 486 times)\n4. <polrk@ydb.tech> (used 480 times)\n5. add (used 453 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
