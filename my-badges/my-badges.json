@@ -196,13 +196,6 @@
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "stars-100",
     "tier": 1,
     "desc": "I collected 100 stars.",
