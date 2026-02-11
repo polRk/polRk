@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/68143c89d6b1808f260ad105efbcfb349fad3df3">68143c8</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/c29acab36d8512e0f9e229fd2d4c21d3977734d8">c29acab</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/05ecb1e3b69cdee73dc61366e6ca0c8690f48286">05ecb1e</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/bbb07ba52de2808c4f4795d2f67030865bccfa28">bbb07ba</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/47cc589d841944a5938b5427719bb2ef321981f2">47cc589</a>
-- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/3604d084e41c0ffb2a620a4c8bb346bb734f099c">3604d08</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/e01cde1adf01edc4771f2bd073dd946266f1e068">e01cde1</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/72b6439e5b48a63ece296b648e466ec9e7315c88">72b6439</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/e5e39267e59058c26740d90a88dc4cc5fd004d37">e5e3926</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/dcae15225f65bbc24e5f8d374f4fc9937f967c34">dcae152</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/6f1cc6a2dba1e0cb7263f2209e6f0155a80dab4e">6f1cc6a</a>
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/90aa570f2b2602affc1a6db499c915bd477f3009">90aa570</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
