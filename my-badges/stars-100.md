@@ -4,12 +4,13 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★81</a>
+* <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★82</a>
 * <a href="https://github.com/ydb-platform/ydb-api-protos">ydb-platform/ydb-api-protos: ★16</a>
 * <a href="https://github.com/ydb-platform/ydb-grafana-datasource-plugin">ydb-platform/ydb-grafana-datasource-plugin: ★4</a>
 * <a href="https://github.com/ydb-platform/ydb-slo-action">ydb-platform/ydb-slo-action: ★3</a>
 * <a href="https://github.com/polRk/docker-wordpress">polRk/docker-wordpress: ★2</a>
 * <a href="https://github.com/ydb-platform/ydb-nodejs-genproto">ydb-platform/ydb-nodejs-genproto: ★2</a>
+* <a href="https://github.com/polRk/SileroVADKit">polRk/SileroVADKit: ★2</a>
 * <a href="https://github.com/polRk/polrk.com">polRk/polrk.com: ★1</a>
 * <a href="https://github.com/polRk/lexorank">polRk/lexorank: ★1</a>
 * <a href="https://github.com/ydb-platform/typeorm">ydb-platform/typeorm: ★1</a>
@@ -17,7 +18,6 @@ Repos:
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
 * <a href="https://github.com/ydb-platform/ydb-js-examples">ydb-platform/ydb-js-examples: ★1</a>
-* <a href="https://github.com/polRk/SileroVADKit">polRk/SileroVADKit: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 
