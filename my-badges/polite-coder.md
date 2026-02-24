@@ -8,7 +8,7 @@ I use words like "thanks" and "please" in my issues:
 - <a href="https://github.com/hyperledger/fabric/issues/4860">#4860</a>: Open Telemetry Monitoring supports
 - <a href="https://github.com/denoland/std/issues/5675">#5675</a>: Add support streaming json parsing from array of objects
 - <a href="https://github.com/dell/opentelemetry-cli/issues/133">#133</a>: Error: No such command 'gauge'.
-- <a href="https://github.com/prisma/prisma1/issues/4042">#4042</a>: Won't start backup by crontab
+- <a href="https://github.com/anthropics/claude-code/issues/27831">#27831</a>: [BUG] Web Search not working
 
  And many more...
 

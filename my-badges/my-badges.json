@@ -17,7 +17,7 @@
     "id": "polite-coder",
     "tier": 0,
     "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n- <a href=\"https://github.com/dell/opentelemetry-cli/issues/133\">#133</a>: Error: No such command 'gauge'.\n- <a href=\"https://github.com/prisma/prisma1/issues/4042\">#4042</a>: Won't start backup by crontab\n\n And many more...",
+    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n- <a href=\"https://github.com/dell/opentelemetry-cli/issues/133\">#133</a>: Error: No such command 'gauge'.\n- <a href=\"https://github.com/anthropics/claude-code/issues/27831\">#27831</a>: [BUG] Web Search not working\n\n And many more...",
     "image": "https://my-badges.github.io/my-badges/polite-coder.png"
   },
   {
@@ -250,12 +250,5 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ebed95d26e899e0120c0d5cd23fffc61c53007bc\">ebed95d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/13ad1512f9ec2a9668c91e4054a97c7eaabc566c\">13ad151</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/1122d3cc94b2c287836d86bbfbe119a7b360f509\">1122d3c</a>\n- <a href=\"https://github.com/polRk/MatchMaker/commit/74c89c66c946a317fe23d2a053d5d1cd47b990dc\">74c89c6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
