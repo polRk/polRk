@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"vladislav\".",
-    "body": "My favorite commit message words are:\n\n1. vladislav (used 500 times)\n2. polyakov (used 500 times)\n3. signed-off-by: (used 488 times)\n4. <polrk@ydb.tech> (used 482 times)\n5. add (used 474 times)",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 502 times)\n2. polyakov (used 502 times)\n3. signed-off-by: (used 490 times)\n4. <polrk@ydb.tech> (used 484 times)\n5. add (used 474 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -257,5 +257,12 @@
     "desc": "I commit at midnight.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ebed95d26e899e0120c0d5cd23fffc61c53007bc\">ebed95d</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/13ad1512f9ec2a9668c91e4054a97c7eaabc566c\">13ad151</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/1122d3cc94b2c287836d86bbfbe119a7b360f509\">1122d3c</a>\n- <a href=\"https://github.com/polRk/MatchMaker/commit/74c89c66c946a317fe23d2a053d5d1cd47b990dc\">74c89c6</a>",
     "image": "https://my-badges.github.io/my-badges/midnight-commits.png"
+  },
+  {
+    "id": "friday-13",
+    "tier": 0,
+    "desc": "I committed on Friday the 13th, One… By One…",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/7f911888f541c4ab1c192c3fde748d34596c372e\">7f91188</a>",
+    "image": "https://my-badges.github.io/my-badges/friday-13.png"
   }
 ]
