@@ -8,7 +8,7 @@ My favorite commit message words are:
 2. polyakov (used 502 times)
 3. signed-off-by: (used 490 times)
 4. <polrk@ydb.tech> (used 484 times)
-5. add (used 474 times)
+5. add (used 481 times)
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
