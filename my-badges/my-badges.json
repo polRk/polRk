@@ -150,7 +150,7 @@
     "id": "favorite-word",
     "tier": 0,
     "desc": "My favorite word is \"vladislav\".",
-    "body": "My favorite commit message words are:\n\n1. vladislav (used 504 times)\n2. polyakov (used 504 times)\n3. signed-off-by: (used 492 times)\n4. <polrk@ydb.tech> (used 486 times)\n5. add (used 481 times)",
+    "body": "My favorite commit message words are:\n\n1. vladislav (used 516 times)\n2. polyakov (used 516 times)\n3. signed-off-by: (used 504 times)\n4. <polrk@ydb.tech> (used 498 times)\n5. add (used 487 times)",
     "image": "https://my-badges.github.io/my-badges/favorite-word.png"
   },
   {
@@ -178,7 +178,7 @@
     "id": "fix-4",
     "tier": 3,
     "desc": "I did 4 sequential fixes.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/polRk/polrk.com/commit/15f7d8aafd979836600ad6ca914432f0eba6ccd8\">15f7d8a</a>: fix: make preload font loading\n- <a href=\"https://github.com/polRk/polrk.com/commit/a2376fc5d4ff2c876d3988234efe1133650a1a46\">a2376fc</a>: fix: add crytical css\n- <a href=\"https://github.com/polRk/polrk.com/commit/7e7370a3c495a70ee7b7974535387a2fcaa603b7\">7e7370a</a>: fix: typo\n- <a href=\"https://github.com/polRk/polrk.com/commit/3737a56dd1bcaf90e25c74f7f33ed874f1fdf3a1\">3737a56</a>: fix: add adaptive footer style",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/9f556fe80527a136e23ad5ff70279545f533c0a6\">9f556fe</a>: Fix StaticCredentialsProvider background refresh\n\n- Add changeset for @ydbjs/auth patch\n- Await and swallow errors from #refreshToken to avoid synchronous\n  disposal of the linked signal which aborted background refreshes\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/85df0919b73532791c479fa8c2b397bfc8b8bab8\">85df091</a>: Fix abort listener leak in fsm runtime\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/01777e2baa7ea0f0774392db3232ae63e29bbf3c\">01777e2</a>: Fix memory leak in background token refresh\n\n- Replace `AbortSignal.any()` with `linkSignals()` to properly clean up\n  event listeners\n- Pass `signal` from retry callback into `#client.login()` for proper\n  RPC cancellation\n- Update `@ydbjs/retry` dependency to ^6.2.0 for signal-handling fixes\n- Add `@ydbjs/abortable` ^6.1.0 dependency\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c6b7f266959f27e10effc7d94771e1a64ab79cfa\">c6b7f26</a>: Fix memory leak in retry loop caused by `AbortSignal.any()`\n\nReplace `AbortSignal.any()` with `linkSignals` from\n`@ydbjs/abortable@^6.1.0`, which properly cleans up event listeners\nusing `Symbol.dispose`.\n\nAlso fix signal handling in `setTimeout` and correct the order of\nerror/attempt updates in the catch block.\n\nSigned-off-by: Vladislav Polyakov <polRk@ydb.tech>",
     "image": "https://my-badges.github.io/my-badges/fix-4.png"
   },
   {
@@ -194,13 +194,6 @@
     "desc": "When I delete code, I delete a lot.",
     "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-slo-action/commit/d68b371e550bf84011a8dd72e961b19a1b53b1f1\">d68b371</a>",
     "image": "https://my-badges.github.io/my-badges/mass-delete-commit-10k.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   },
   {
     "id": "stars-100",
@@ -248,7 +241,7 @@
     "id": "evening-commits",
     "tier": 0,
     "desc": "I commit in the evening.",
-    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ff96fe6a731269be1d093f60970a0b926c103076\">ff96fe6</a>\n- <a href=\"https://github.com/polRk/Yandalf/commit/ba2b89d4502771bafe9626bfd7d36857bcc8f898\">ba2b89d</a>\n- <a href=\"https://github.com/ydb-platform/ai-dev-kit/commit/e01cde1adf01edc4771f2bd073dd946266f1e068\">e01cde1</a>\n- <a href=\"https://github.com/ydb-platform/ai-dev-kit/commit/72b6439e5b48a63ece296b648e466ec9e7315c88\">72b6439</a>\n- <a href=\"https://github.com/ydb-platform/ai-dev-kit/commit/e5e39267e59058c26740d90a88dc4cc5fd004d37\">e5e3926</a>\n- <a href=\"https://github.com/ydb-platform/ai-dev-kit/commit/dcae15225f65bbc24e5f8d374f4fc9937f967c34\">dcae152</a>",
+    "body": "Commits:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/9f556fe80527a136e23ad5ff70279545f533c0a6\">9f556fe</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/85df0919b73532791c479fa8c2b397bfc8b8bab8\">85df091</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/01777e2baa7ea0f0774392db3232ae63e29bbf3c\">01777e2</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/c6b7f266959f27e10effc7d94771e1a64ab79cfa\">c6b7f26</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/60c7a000711c8237ae48738efff2b5fac37c1785\">60c7a00</a>\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/commit/ff96fe6a731269be1d093f60970a0b926c103076\">ff96fe6</a>",
     "image": "https://my-badges.github.io/my-badges/evening-commits.png"
   },
   {

@@ -4,12 +4,12 @@
 
 Commits:
 
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/9f556fe80527a136e23ad5ff70279545f533c0a6">9f556fe</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/85df0919b73532791c479fa8c2b397bfc8b8bab8">85df091</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/01777e2baa7ea0f0774392db3232ae63e29bbf3c">01777e2</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c6b7f266959f27e10effc7d94771e1a64ab79cfa">c6b7f26</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/60c7a000711c8237ae48738efff2b5fac37c1785">60c7a00</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ff96fe6a731269be1d093f60970a0b926c103076">ff96fe6</a>
-- <a href="https://github.com/polRk/Yandalf/commit/ba2b89d4502771bafe9626bfd7d36857bcc8f898">ba2b89d</a>
-- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/e01cde1adf01edc4771f2bd073dd946266f1e068">e01cde1</a>
-- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/72b6439e5b48a63ece296b648e466ec9e7315c88">72b6439</a>
-- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/e5e39267e59058c26740d90a88dc4cc5fd004d37">e5e3926</a>
-- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/dcae15225f65bbc24e5f8d374f4fc9937f967c34">dcae152</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

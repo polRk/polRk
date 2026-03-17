@@ -4,10 +4,36 @@
 
 Commits:
 
-- <a href="https://github.com/polRk/polrk.com/commit/15f7d8aafd979836600ad6ca914432f0eba6ccd8">15f7d8a</a>: fix: make preload font loading
-- <a href="https://github.com/polRk/polrk.com/commit/a2376fc5d4ff2c876d3988234efe1133650a1a46">a2376fc</a>: fix: add crytical css
-- <a href="https://github.com/polRk/polrk.com/commit/7e7370a3c495a70ee7b7974535387a2fcaa603b7">7e7370a</a>: fix: typo
-- <a href="https://github.com/polRk/polrk.com/commit/3737a56dd1bcaf90e25c74f7f33ed874f1fdf3a1">3737a56</a>: fix: add adaptive footer style
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/9f556fe80527a136e23ad5ff70279545f533c0a6">9f556fe</a>: Fix StaticCredentialsProvider background refresh
+
+- Add changeset for @ydbjs/auth patch
+- Await and swallow errors from #refreshToken to avoid synchronous
+  disposal of the linked signal which aborted background refreshes
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/85df0919b73532791c479fa8c2b397bfc8b8bab8">85df091</a>: Fix abort listener leak in fsm runtime
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/01777e2baa7ea0f0774392db3232ae63e29bbf3c">01777e2</a>: Fix memory leak in background token refresh
+
+- Replace `AbortSignal.any()` with `linkSignals()` to properly clean up
+  event listeners
+- Pass `signal` from retry callback into `#client.login()` for proper
+  RPC cancellation
+- Update `@ydbjs/retry` dependency to ^6.2.0 for signal-handling fixes
+- Add `@ydbjs/abortable` ^6.1.0 dependency
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c6b7f266959f27e10effc7d94771e1a64ab79cfa">c6b7f26</a>: Fix memory leak in retry loop caused by `AbortSignal.any()`
+
+Replace `AbortSignal.any()` with `linkSignals` from
+`@ydbjs/abortable@^6.1.0`, which properly cleans up event listeners
+using `Symbol.dispose`.
+
+Also fix signal handling in `setTimeout` and correct the order of
+error/attempt updates in the catch block.
+
+Signed-off-by: Vladislav Polyakov <polRk@ydb.tech>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
