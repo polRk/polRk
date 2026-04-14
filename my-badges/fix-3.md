@@ -4,15 +4,9 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c6ce7d51cae98d9b1d43c214ccacbb0284ad65d0">c6ce7d5</a>: fix(topic): split TX options from main topic clients
-
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c395179d97e87b9084e0e056e5f0b49fd129a695">c395179</a>: fix(topic): move tx option at the first place.
-
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ffda73ccf0f2e7aa7e099739fc794918aa814039">ffda73c</a>: fix(topic): remove disposable features for tx clients.
-
-Signed-off-by: Vladislav Polyakov <polrk@ydb.tech>
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/693d58414bcfb3c16e4f940c11180d7d94319ea0">693d584</a>: fix thresholds evaluation
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/f59365bb76f4ab1c4a1002a0f17ae23fa8de6561">f59365b</a>: Fix missing replace anchor after minification proccess
+- <a href="https://github.com/ydb-platform/ydb-slo-action/commit/1d8871acfb9d76b9063e7c449d75989a5d6fc987">1d8871a</a>: Fix report action entrypoint
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>
