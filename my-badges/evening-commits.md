@@ -4,12 +4,12 @@
 
 Commits:
 
-- <a href="https://github.com/ydb-platform/ydb/commit/3d1fe7d6db49c44c992942ff4c4cf2a05f8bfd83">3d1fe7d</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/9f556fe80527a136e23ad5ff70279545f533c0a6">9f556fe</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/85df0919b73532791c479fa8c2b397bfc8b8bab8">85df091</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/01777e2baa7ea0f0774392db3232ae63e29bbf3c">01777e2</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c6b7f266959f27e10effc7d94771e1a64ab79cfa">c6b7f26</a>
-- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/60c7a000711c8237ae48738efff2b5fac37c1785">60c7a00</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ce2a98c36f6475e8c5bd77d8c148a2ed5a3e847e">ce2a98c</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/c12b0273393dcf7a3c43c64e0e31b396099a558d">c12b027</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/7a6e52b07cf0496e5ca7d3809c50e7766b8bbd98">7a6e52b</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/cf2f137dd517651dc8f338b1c0d23237645546b1">cf2f137</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/0c00a00b8a35404662374849227f144b0103866e">0c00a00</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/2edfd8b09a0ec0565b2a5dc0d8ec887bfb1c7c71">2edfd8b</a>
 
 
 Created by <a href="https://github.com/my-badges/my-badges">My Badges</a>

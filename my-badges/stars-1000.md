@@ -4,7 +4,7 @@
 
 Repos:
 
-* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4714</a>
+* <a href="https://github.com/ydb-platform/ydb">ydb-platform/ydb: ★4715</a>
 * <a href="https://github.com/ydb-platform/ydb-dotnet-sdk">ydb-platform/ydb-dotnet-sdk: ★110</a>
 * <a href="https://github.com/ydb-platform/ydb-python-sdk">ydb-platform/ydb-python-sdk: ★94</a>
 * <a href="https://github.com/ydb-platform/ydb-js-sdk">ydb-platform/ydb-js-sdk: ★84</a>
@@ -21,6 +21,7 @@ Repos:
 * <a href="https://github.com/polRk/buf">polRk/buf: ★1</a>
 * <a href="https://github.com/polRk/ydb-python-sdk">polRk/ydb-python-sdk: ★1</a>
 * <a href="https://github.com/ydb-platform/ydb-js-examples">ydb-platform/ydb-js-examples: ★1</a>
+* <a href="https://github.com/scarlettnik/ydb-drizzle">scarlettnik/ydb-drizzle: ★1</a>
 
 <sup>I have push, maintainer or admin permissions, so I'm definitely an author.<sup>
 

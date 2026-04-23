@@ -19,6 +19,7 @@ Commits:
 - <a href="https://github.com/ydb-platform/ydb-slo-action/commit/b949ea3b07f159d365f6bbfa3d5aa58d176a938a">b949ea3</a>
 - <a href="https://github.com/ydb-platform/ydb-slo-action/commit/706f0809120ebd25d241f1c61147cff5d5654a75">706f080</a>
 - <a href="https://github.com/ydb-platform/ydb-slo-action/commit/041e70863c834f953f6d6554e900b5e75178c1d7">041e708</a>
+- <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/ce2a98c36f6475e8c5bd77d8c148a2ed5a3e847e">ce2a98c</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/96137cb138718902e83cc2539e8320492f9bdbf0">96137cb</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/421fe42a78fb5d00667497a130f8343394f4a31d">421fe42</a>
 - <a href="https://github.com/ydb-platform/ydb-js-sdk/commit/5026a6ac722c0449d879ea3d17845887cbfaf104">5026a6a</a>
