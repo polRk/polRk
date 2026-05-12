@@ -91,13 +91,6 @@
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
   },
   {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 2 my own repositories.",
-    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>\n- <a href=\"https://github.com/polRk/SileroVADKit\">polRk/SileroVADKit</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
-  },
-  {
     "id": "a-commit",
     "tier": 1,
     "desc": "One of my commit sha starts with \"a\".",
