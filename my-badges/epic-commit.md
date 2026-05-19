@@ -4,6 +4,7 @@
 
 Commits:
 
+- <a href="https://github.com/ydb-platform/ai-dev-kit/commit/b0fe36406152e3190159388a29569736fea7728e">b0fe364</a>
 - <a href="https://github.com/ydb-platform/ai-dev-kit/commit/6a6d974169a0ffbeb1ed475d9fb9e5fca8ba004e">6a6d974</a>
 - <a href="https://github.com/ydb-platform/ai-dev-kit/commit/c11d8e94f1e272fafd33b79f02d802a45c7a634b">c11d8e9</a>
 - <a href="https://github.com/ydb-platform/ai-dev-kit/commit/21e900a4876fdb6c33e7326d4a5e99aa69882db6">21e900a</a>
