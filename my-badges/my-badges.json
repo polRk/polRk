@@ -89,5 +89,12 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/543\">#543</a>: Refactor CI/CD workflows\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/546\">#546</a>: Configure independent package publishing after alpha",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
+  },
+  {
+    "id": "self-star",
+    "tier": 0,
+    "desc": "I've starred 1 my own repositories.",
+    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
+    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
