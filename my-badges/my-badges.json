@@ -59,7 +59,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253\">13 👍</a>\n* <a href=\"https://github.com/vuejs/vitepress/issues/5201\">12 👍</a>\n* <a href=\"https://github.com/jquense/yup/issues/593\">12 👍</a>",
+    "body": "* <a href=\"https://github.com/vuejs/vitepress/issues/5201\">13 👍</a>\n* <a href=\"https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253\">13 👍</a>\n* <a href=\"https://github.com/jquense/yup/issues/593\">12 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
@@ -89,12 +89,5 @@
     "desc": "I merged a PR with failing checks",
     "body": "Pull requests:\n\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/543\">#543</a>: Refactor CI/CD workflows\n- <a href=\"https://github.com/ydb-platform/ydb-js-sdk/pull/546\">#546</a>: Configure independent package publishing after alpha",
     "image": "https://my-badges.github.io/my-badges/this-is-fine.png"
-  },
-  {
-    "id": "self-star",
-    "tier": 0,
-    "desc": "I've starred 1 my own repositories.",
-    "body": "- <a href=\"https://github.com/polRk/lexorank\">polRk/lexorank</a>",
-    "image": "https://my-badges.github.io/my-badges/self-star.png"
   }
 ]
