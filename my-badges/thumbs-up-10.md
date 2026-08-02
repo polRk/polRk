@@ -2,7 +2,7 @@
 <strong>I got more than 10 thumbs up.</strong>
 <br><br>
 
-* <a href="https://github.com/vuejs/vitepress/issues/5201">13 👍</a>
+* <a href="https://github.com/vuejs/vitepress/issues/5201">14 👍</a>
 * <a href="https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253">13 👍</a>
 * <a href="https://github.com/jquense/yup/issues/593">12 👍</a>
 
