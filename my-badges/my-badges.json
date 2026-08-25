@@ -14,13 +14,6 @@
     "image": "https://my-badges.github.io/my-badges/github-anniversary-5.png"
   },
   {
-    "id": "polite-coder",
-    "tier": 0,
-    "desc": "I am a polite coder.",
-    "body": "I use words like \"thanks\" and \"please\" in my issues:\n\n- <a href=\"https://github.com/ZijianHe/koa-router/issues/511\">#511</a>: Map of middleware doesn't work\n- <a href=\"https://github.com/hyperledger/fabric/issues/4860\">#4860</a>: Open Telemetry Monitoring supports\n- <a href=\"https://github.com/denoland/std/issues/5675\">#5675</a>: Add support streaming json parsing from array of objects\n- <a href=\"https://github.com/dell/opentelemetry-cli/issues/133\">#133</a>: Error: No such command 'gauge'.\n- <a href=\"https://github.com/prisma/prisma1/issues/4042\">#4042</a>: Won't start backup by crontab\n\n And many more...",
-    "image": "https://my-badges.github.io/my-badges/polite-coder.png"
-  },
-  {
     "id": "pr-collaboration-5",
     "tier": 1,
     "desc": "I have participated in pull requests with 5 or more people",
@@ -42,13 +35,6 @@
     "image": "https://my-badges.github.io/my-badges/pr-collaboration-15.png"
   },
   {
-    "id": "the-ultimate-question",
-    "tier": 0,
-    "desc": "I found the answer to the ultimate question of life, the universe, and everything!",
-    "body": "- <a href=\"https://github.com/simonsmith/stylelint-selector-bem-pattern/issues/42\">#42</a>",
-    "image": "https://my-badges.github.io/my-badges/the-ultimate-question.png"
-  },
-  {
     "id": "thumbs-down-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs down.",
@@ -59,7 +45,7 @@
     "id": "thumbs-up-10",
     "tier": 1,
     "desc": "I got more than 10 thumbs up.",
-    "body": "* <a href=\"https://github.com/vuejs/vitepress/issues/5201\">16 👍</a>\n* <a href=\"https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253\">13 👍</a>\n* <a href=\"https://github.com/jquense/yup/issues/593\">12 👍</a>",
+    "body": "* <a href=\"https://github.com/hasura/graphql-engine/issues/2945#issuecomment-578923253\">13 👍</a>",
     "image": "https://my-badges.github.io/my-badges/thumbs-up-10.png"
   },
   {
@@ -75,13 +61,6 @@
     "desc": "I have two public keys",
     "body": "",
     "image": "https://my-badges.github.io/my-badges/public-keys-2.png"
-  },
-  {
-    "id": "old-issue-1",
-    "tier": 1,
-    "desc": "I closed an issue that was open for a year",
-    "body": "Issues:\n\n- <a href=\"https://github.com/DarthSim/overmind/issues/139\">#139</a>: How to specify start order",
-    "image": "https://my-badges.github.io/my-badges/old-issue-1.png"
   },
   {
     "id": "this-is-fine",
